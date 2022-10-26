@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Placebet sample</name>
+   <name>TC Login</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>8275bcd2-f7f9-4623-af62-5aace4719761</testCaseGuid>
