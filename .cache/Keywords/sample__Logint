@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "564BF7CF1423F4A4A84303BFEB4B6226",
+  "keywordClasses": [
+    {
+      "name": "sample.Logint",
+      "keywordMethods": [
+        {
+          "name": "LoginValidCredentials",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

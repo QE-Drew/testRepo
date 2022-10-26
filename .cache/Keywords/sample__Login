@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B691208FBC3371CEA9DD22B00DFAFE71",
+  "keywordClasses": [
+    {
+      "name": "sample.Login",
+      "keywordMethods": [
+        {
+          "name": "LoginValidCredentials",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
